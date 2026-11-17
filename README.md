@@ -1,5 +1,10 @@
 # Exp-7 Lane Detection
 
+##  Developed By
+
+* **Name:** KARANKUMAR K
+* **Register No:** 212225040171
+
 ##  Aim
 
 To implement a basic lane detection pipeline using OpenCV by completing missing code segments at specified locations.
@@ -203,7 +208,4 @@ Thus, the lane detection pipeline is successfully implemented by completing the 
 
 ---
 
-##  Developed By
 
-* **Name:** ____________________________
-* **Register No:** ______________________
